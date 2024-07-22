@@ -17,7 +17,9 @@ class Solution:
         fast = temp
         # Checking for the end node i.e. null 
         while(fast and fast.next):
+            # move slow pointer by one step
             slow = slow.next
+            # move fast pointer by two step
             fast = fast.next.next
         # returning the slow pointer or returning second half of linked list
         return slow
