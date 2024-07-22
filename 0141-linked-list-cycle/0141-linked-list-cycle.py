@@ -25,3 +25,7 @@ class Solution:
             if slow == fast:
                 # returning true in case of collision or loop
                 return True
+
+
+# Time Complexity --    O(N)  as it traverse one time
+# Space Complexity --   O(1)  as it not use any extra space 
