@@ -9,7 +9,7 @@
 
 class Solution:
     def middleNode(self, head: Optional[ListNode]) -> Optional[ListNode]:
-        # Storing head into temp variable
+        # Storing head to temp variable
         temp = head
         # assigning slow pointer at temp(head)
         slow = temp
@@ -23,3 +23,7 @@ class Solution:
             fast = fast.next.next
         # returning the slow pointer or returning second half of linked list
         return slow
+
+
+# Time Complexity --    O(N/2)  as it traverse one time
+# Space Complexity --   O(1)  as it not use any extra space 
