@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/jainrishabh23/-CrackYourPlacement/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/jainrishabh23/-CrackYourPlacement/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/jainrishabh23/-CrackYourPlacement/tree/master/0160-intersection-of-two-linked-lists) |
 | [0908-middle-of-the-linked-list](https://github.com/jainrishabh23/-CrackYourPlacement/tree/master/0908-middle-of-the-linked-list) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/jainrishabh23/-CrackYourPlacement/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/jainrishabh23/-CrackYourPlacement/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/jainrishabh23/-CrackYourPlacement/tree/master/0088-merge-sorted-array) |
 ## Math
 |  |
 | ------- |
@@ -56,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/jainrishabh23/-CrackYourPlacement/tree/master/0035-search-insert-position) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/jainrishabh23/-CrackYourPlacement/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
