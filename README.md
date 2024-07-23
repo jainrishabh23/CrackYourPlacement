@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/jainrishabh23/-CrackYourPlacement/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/jainrishabh23/-CrackYourPlacement/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/jainrishabh23/-CrackYourPlacement/tree/master/0169-majority-element) |
 ## Stack
 |  |
 | ------- |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/jainrishabh23/-CrackYourPlacement/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/jainrishabh23/-CrackYourPlacement/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jainrishabh23/-CrackYourPlacement/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/jainrishabh23/-CrackYourPlacement/tree/master/0169-majority-element) |
 ## Math
 |  |
 | ------- |
@@ -65,8 +67,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/jainrishabh23/-CrackYourPlacement/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/jainrishabh23/-CrackYourPlacement/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jainrishabh23/-CrackYourPlacement/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/jainrishabh23/-CrackYourPlacement/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/jainrishabh23/-CrackYourPlacement/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
