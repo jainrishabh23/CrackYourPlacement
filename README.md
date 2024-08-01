@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/jainrishabh23/-CrackYourPlacement/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jainrishabh23/-CrackYourPlacement/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/jainrishabh23/-CrackYourPlacement/tree/master/0169-majority-element) |
+| [2727-number-of-senior-citizens](https://github.com/jainrishabh23/-CrackYourPlacement/tree/master/2727-number-of-senior-citizens) |
 ## Math
 |  |
 | ------- |
@@ -97,4 +98,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/jainrishabh23/-CrackYourPlacement/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/jainrishabh23/-CrackYourPlacement/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/jainrishabh23/-CrackYourPlacement/tree/master/0206-reverse-linked-list) |
+## String
+|  |
+| ------- |
+| [2727-number-of-senior-citizens](https://github.com/jainrishabh23/-CrackYourPlacement/tree/master/2727-number-of-senior-citizens) |
 <!---LeetCode Topics End-->
