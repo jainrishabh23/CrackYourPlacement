@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/jainrishabh23/-CrackYourPlacement/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/jainrishabh23/-CrackYourPlacement/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/jainrishabh23/-CrackYourPlacement/tree/master/0169-majority-element) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/jainrishabh23/-CrackYourPlacement/tree/master/0599-minimum-index-sum-of-two-lists) |
 ## Stack
 |  |
 | ------- |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/jainrishabh23/-CrackYourPlacement/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jainrishabh23/-CrackYourPlacement/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/jainrishabh23/-CrackYourPlacement/tree/master/0169-majority-element) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/jainrishabh23/-CrackYourPlacement/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [2727-number-of-senior-citizens](https://github.com/jainrishabh23/-CrackYourPlacement/tree/master/2727-number-of-senior-citizens) |
 ## Math
 |  |
@@ -101,5 +103,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/jainrishabh23/-CrackYourPlacement/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [2727-number-of-senior-citizens](https://github.com/jainrishabh23/-CrackYourPlacement/tree/master/2727-number-of-senior-citizens) |
 <!---LeetCode Topics End-->
