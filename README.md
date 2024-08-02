@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jainrishabh23/-CrackYourPlacement/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/jainrishabh23/-CrackYourPlacement/tree/master/0169-majority-element) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/jainrishabh23/-CrackYourPlacement/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/jainrishabh23/-CrackYourPlacement/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2727-number-of-senior-citizens](https://github.com/jainrishabh23/-CrackYourPlacement/tree/master/2727-number-of-senior-citizens) |
 ## Math
 |  |
@@ -105,4 +106,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/jainrishabh23/-CrackYourPlacement/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [2727-number-of-senior-citizens](https://github.com/jainrishabh23/-CrackYourPlacement/tree/master/2727-number-of-senior-citizens) |
+## Sliding Window
+|  |
+| ------- |
+| [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/jainrishabh23/-CrackYourPlacement/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 <!---LeetCode Topics End-->
