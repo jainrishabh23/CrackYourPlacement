@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/jainrishabh23/-CrackYourPlacement/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/jainrishabh23/-CrackYourPlacement/tree/master/0169-majority-element) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/jainrishabh23/-CrackYourPlacement/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/jainrishabh23/-CrackYourPlacement/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 ## Stack
 |  |
 | ------- |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jainrishabh23/-CrackYourPlacement/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/jainrishabh23/-CrackYourPlacement/tree/master/0169-majority-element) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/jainrishabh23/-CrackYourPlacement/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/jainrishabh23/-CrackYourPlacement/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/jainrishabh23/-CrackYourPlacement/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2727-number-of-senior-citizens](https://github.com/jainrishabh23/-CrackYourPlacement/tree/master/2727-number-of-senior-citizens) |
 ## Math
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/jainrishabh23/-CrackYourPlacement/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/jainrishabh23/-CrackYourPlacement/tree/master/0169-majority-element) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/jainrishabh23/-CrackYourPlacement/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 ## Dynamic Programming
 |  |
 | ------- |
