@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/jainrishabh23/-CrackYourPlacement/tree/master/0169-majority-element) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/jainrishabh23/-CrackYourPlacement/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/jainrishabh23/-CrackYourPlacement/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/jainrishabh23/-CrackYourPlacement/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/jainrishabh23/-CrackYourPlacement/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2727-number-of-senior-citizens](https://github.com/jainrishabh23/-CrackYourPlacement/tree/master/2727-number-of-senior-citizens) |
 ## Math
